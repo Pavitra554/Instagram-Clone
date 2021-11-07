@@ -11,10 +11,13 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
     <a aria-label="Vercel logo" href="https://redux-toolkit.js.org/">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux toolkit&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux toolkit&logoColor=white">
   </a>
     <a aria-label="Vercel logo" href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+<a aria-label="NPM version" href="https://firebase.google.com/">
+     <img src="https://img.shields.io/badge/firebase V9-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a>
     <a href="https://www.framer.com/motion/">
    <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
