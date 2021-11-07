@@ -58,8 +58,10 @@ you can login, like,comment and also you can upload a post. I have done these th
 - Git & GitHub<br/>
 
 # How it look's
-    
-    coming soon
+
+    <img src="gif/20211107_120158.gif"/>
+    <img src="gif/20211107_120238.gif"/>
+    <img src="gif/20211107_120608.gif"/>
 
 # Some important information about Next.Js
 ## Getting Started
