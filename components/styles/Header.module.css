@@ -1,0 +1,123 @@
+.nav{
+    width: 100%;
+    border-bottom: 1px solid #D0CFCF;
+    background-color: #fff;
+    position:fixed;
+    top:0;
+    z-index: 50;
+}
+.main{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0px auto;
+    padding-top:15px ;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #fff;
+}
+.camera{
+    display: none;
+    margin: 0px 10px;
+}
+.search{
+    padding: 2px 20px;
+    display: flex;
+    border: 1px solid #D0CFCF;
+    border-radius: 3px;
+    position: relative;
+    margin-bottom: 10px;
+    background-color: #fafafa;
+}
+.searchinput{
+    border: none;
+    background-color: #fafafa;
+    text-align: center;
+    outline: none;
+}
+.searchicon{
+    position: relative;
+    left: 60px;
+}
+.Searchicon{
+    display: none;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+
+}
+.home{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.messanger{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.Explore{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.newpost{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.heart{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.user{
+    margin: auto 10px;
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    overflow: hidden;
+    background-color: #ddd;
+    cursor: pointer;
+}
+.messanger p{
+    height: 15px;
+    width: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: #ed4956;
+    border-radius: 50px;
+    font-size: 10px;
+    top: 5px;
+    margin-left: 10px;
+    z-index: 10;
+}
+
+@media only screen and (max-width:600px) {
+    .main{
+        justify-content: space-between;
+    }
+    .camera{
+        display: block;
+    }
+    .search{
+        display: none;
+    }
+    .home{
+        display: none;
+    }
+    .Explore{
+        display: none;
+    }
+    .newpost{
+        display: none;
+    }
+    .heart{
+        display: none;
+    }
+    .user{
+        display: none;
+    }
+
+}

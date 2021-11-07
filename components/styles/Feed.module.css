@@ -1,0 +1,19 @@
+.mainFeed{
+    max-width: 935px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    margin-bottom: 60px;
+}
+@media only screen and (max-width:915px){
+    .right{
+        display: none;
+     }
+     .mainFeed{
+        max-width: 935px;
+        margin: 0 auto;
+        display: block;
+    }
+}

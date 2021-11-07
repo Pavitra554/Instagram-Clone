@@ -1,0 +1,27 @@
+.mainNav{
+    width: 100%;
+    border: 1px solid #D0CFCF;
+    position:fixed;
+    bottom: 0;
+    padding: 10px;
+    display: none;
+    justify-content: space-around;
+    z-index: 10;
+    background-color: #fff;
+}
+.user{
+    margin: 0px 10px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    overflow: hidden;
+    background-color: #ddd;
+}
+@media only screen and (max-width:600px) {
+    .mainNav{
+        display: flex;
+    }
+}
+.home,.newpost,.search,.heart,.profile{
+    cursor: pointer;
+}

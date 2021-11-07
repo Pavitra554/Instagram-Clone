@@ -1,0 +1,80 @@
+.main{
+    width: 300px;
+    position:sticky;
+    top: 164px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.header div{
+    font-weight: 550;
+    color: rgb(161, 160, 160);
+}
+.header button{
+    background-color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.MiniProfileMain{
+    /* background-color: aquamarine; */
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 20px;
+    position:sticky;
+    top: 83px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.userProfile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 80px;
+    overflow: hidden;
+}
+.profilewrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.namesection{
+    padding-left:20px ;
+}
+.userId{
+    margin-top: 0;
+    line-height: 0;
+    font-weight: 510;
+    font-size: 13px;
+}
+.username{
+    line-height: 0;
+    font-size: 12px;
+    opacity: 0.6;
+}
+.follow{
+    background-color: #fff;
+    outline: none;
+    border: none;
+    font-size: 13px;
+    font-weight: 550;
+    color: #0095f6;
+    cursor: pointer;
+}
+.About{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.About p{
+    color: #ABA9A9;
+    line-height: 20px;
+    font-size: 10px;
+    cursor: pointer;
+}

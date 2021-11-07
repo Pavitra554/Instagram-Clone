@@ -1,0 +1,35 @@
+.mainPage{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.diclaimer{
+    margin-top:-100px ;
+    font-size: 18px;
+    text-align: center;
+    color: #414040;
+}
+.developer{
+    line-height: 0;
+    color: #7A7A7F;
+}
+.signinBtn{
+    padding: 10px;
+    margin-top: 100px;
+    background-color: #4285F4;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: 510;
+    cursor: pointer;
+    /* border-top: 3px solid #DB4437;
+    border-left: 3px solid #F4B400;
+    border-bottom: 3px solid #4285F4;
+    border-right: 3px solid #0F9D58; */
+
+}

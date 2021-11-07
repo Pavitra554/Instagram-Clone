@@ -1,0 +1,67 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(91, 88, 88, 0.2);
+  backdrop-filter: blur(9.5px);
+  -webkit-backdrop-filter: blur(9.5px);
+  border-radius: 10px;
+  background-position: center;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  z-index: 100;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.model{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* height: 250px;
+    width: 300px; */
+    background-color: #fff;
+    border-radius: 30px;
+    z-index: 110;
+}
+.cameraimg{cursor: pointer;margin: 10px;}
+.model p{
+    font-size: 15px;
+    font-weight: 540;
+}
+.model input{
+    border: none;
+    outline: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.model button{
+    border: none;
+    outline: none;
+    padding: 10px 80px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 540;
+    border-radius: 15px;
+    background-image: linear-gradient(50deg,#F58529,#DD2A7B);
+    color: #fff;
+    cursor: pointer;
+    margin: 15px;
+
+}
+.postImage{
+    /* height: 80vh;
+    width: 40vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.imgpost{
+    margin: 10px;
+}
