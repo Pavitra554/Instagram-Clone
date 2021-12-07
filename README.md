@@ -97,9 +97,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Important 
   change .env.example to .env.local and add your id and secret and all.
 
-## Deploy on Vercel
-
-### Link: https://instagram-clone-khaki-sigma.vercel.app/
-
 # Thanks for visiting🤗
 
