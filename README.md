@@ -10,8 +10,8 @@
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
-    <a aria-label="Vercel logo" href="https://redux-toolkit.js.org/">
-    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux toolkit&logoColor=white">
+     <a href="https://redux-toolkit.js.org/">
+    <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a>
     <a aria-label="Vercel logo" href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
