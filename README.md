@@ -96,6 +96,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Important 
   change .env.example to .env.local and add your id and secret and all.
+  
+# Deploy
+   Link - https://instagram-clone-khaki-sigma.vercel.app/
+   this will till firebase rule date.
 
 # Thanks for visiting🤗
 
