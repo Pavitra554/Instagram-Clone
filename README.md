@@ -98,7 +98,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   change .env.example to .env.local and add your id and secret and all.
   
 # Deploy
-  Can't Share people are spamming don't know why🙂
-
+  Contact me for deployment link
+  PS:people are spamming 🙂, they think they are the biggest hackers in the world. Don't be a smart person setting over there.🙂
 # Thanks for visiting🤗
 
