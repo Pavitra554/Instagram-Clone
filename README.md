@@ -100,5 +100,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 # Deploy
   Contact me for deployment link
   PS:people are spamming 🙂, they think they are the biggest hackers in the world. Don't be a smart person sitting over there.🙂
+  
+# <a href="https://www.linkedin.com/feed/update/urn:li:activity:6863019296134582273/">Linkedin</a>
 # Thanks for visiting🤗
 
